@@ -16,12 +16,12 @@
     <message>
         <location filename="../qml/pages/CommentsPage.qml" line="118"/>
         <source>Unvote</source>
-        <translation type="unfinished"></translation>
+        <translation>Fjern stemme</translation>
     </message>
     <message>
         <location filename="../qml/pages/CommentsPage.qml" line="118"/>
         <source>Upvote</source>
-        <translation type="unfinished"></translation>
+        <translation>Stem opp</translation>
     </message>
     <message>
         <location filename="../qml/pages/CommentsPage.qml" line="103"/>
@@ -72,12 +72,12 @@
     <message>
         <location filename="../qml/pages/ItemDelegate.qml" line="55"/>
         <source>Unvote</source>
-        <translation type="unfinished"></translation>
+        <translation>Fjern stemme</translation>
     </message>
     <message>
         <location filename="../qml/pages/ItemDelegate.qml" line="55"/>
         <source>Upvote</source>
-        <translation type="unfinished"></translation>
+        <translation>Stem opp</translation>
     </message>
 </context>
 <context>
@@ -139,12 +139,12 @@
     <message>
         <location filename="../qml/pages/ReplyDelegate.qml" line="109"/>
         <source>Unvote</source>
-        <translation type="unfinished"></translation>
+        <translation>Fjern stemme</translation>
     </message>
     <message>
         <location filename="../qml/pages/ReplyDelegate.qml" line="109"/>
         <source>Upvote</source>
-        <translation type="unfinished"></translation>
+        <translation>Stem opp</translation>
     </message>
     <message>
         <location filename="../qml/pages/ReplyDelegate.qml" line="120"/>
@@ -189,17 +189,17 @@
     <message>
         <location filename="../qml/pages/Settings.qml" line="84"/>
         <source>Votes synchronized</source>
-        <translation type="unfinished"></translation>
+        <translation>Stemmer synkronisert</translation>
     </message>
     <message>
         <location filename="../qml/pages/Settings.qml" line="84"/>
         <source>Failed to synchronize votes</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke synkronisere stemmer</translation>
     </message>
     <message>
         <location filename="../qml/pages/Settings.qml" line="111"/>
         <source>Synchronize votes</source>
-        <translation type="unfinished"></translation>
+        <translation>Synkroniser stemmer</translation>
     </message>
     <message>
         <location filename="../qml/pages/Settings.qml" line="103"/>
